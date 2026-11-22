@@ -240,5 +240,6 @@ web/
 
 * **Developed by:** **Mohammad Beigi** (`mbeigi88`)
 * **Project:** Bobi Voice Assistant — Windows PC Edition
+* **📧 Contact / تماس:** [robamad1396@gmail.com](mailto:robamad1396@gmail.com)
 
 برای ثبت گزارش باگ‌ها، پیشنهادات و بازخوردها می‌توانید از بخش [GitHub Issues](https://github.com/mbeigi88/bobi_voice_agent-pc/issues) این ریپوزیتوری استفاده نمایید.
